@@ -44,4 +44,28 @@ are working in R, we recommend Ellis Hughes'
 
 You are welcome to use whatever method you prefer 
 to create visualizations! Folks who regularly attend our group tend to use the following: 
-  - *R:* [ggplot2](https://ggplot2.tidyverse.org) and associated packages
+
+### R
+
+* [ggplot2](https://ggplot2.tidyverse.org) and associated packages
+* [plotly](https://plot.ly/r/)
+  
+### Python
+
+* [matplotlib](https://matplotlib.org)
+* [Seaborn](https://seaborn.pydata.org)
+* [Bokeh](https://bokeh.pydata.org/en/latest/)
+* [Plotly](https://plot.ly/python/)
+
+### Tableau
+
+We have an active [Tableau](https://www.tableau.com) user community at Fred Hutch;
+please check out their channel on [Slack](https://join.slack.com/t/fhbig/shared_invite/enQtMzUyMDIxNzk3MDU3LWNjMDg3ZDVhNGZiNTBlODRmNWM5ZjczMzI1MGNmZTg4NGQ5ODgzMGNmMjcyNzMxMDc0YWFlN2VkNjI4NGZjNjg).
+
+### Web-based tools
+
+If you'd like to work on data visualization but would like to 
+use a web-based, point-and-click interface for exploratory data 
+analysis, we recommend you check out [RAWGraphs](https://rawgraphs.io).
+Click on `Use it now!` to upload a data set (or use one of the examples provided),
+then scroll down the page to choose a chart type and select how data are displayed.
