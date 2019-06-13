@@ -1,5 +1,9 @@
 # Data visualization
 
+The Data Viz lunch group currently meets weekly on Wednesdays in 
+The Coop Lab, M1-B406 (Arnold). Everyone in the Fred Hutch staff and
+research community is welcome to attend!
+
 ## How the meetings work
 
 The [TidyTuesday](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/) 
