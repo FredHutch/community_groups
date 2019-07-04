@@ -2,10 +2,10 @@
 
 This repository holds descriptions and resources associated with collaborative, community-focused data science groups at Fred Hutch.
 
-## Data visualization
+## [Data visualization](data_viz.md)
 
-## Python Coding
+## [Python Coding](python.md)
 
-## R Coding
+## [R Coding](R.md)
 
-## Software Design
+## [Software Design](software_design.md)
