@@ -1,6 +1,6 @@
 # Python coding group
 
-The R coding group meets on Fridays from noon to 1 pm in the Coop Lab (M1-B406). All Fred Hutch and SCCA employees are welcome to attend!
+The Python coding group meets on Fridays from noon to 1 pm in the Coop Lab (M1-B406). All Fred Hutch and SCCA employees are welcome to attend!
 
 Please see [this issue](https://github.com/FredHutch/community_groups/issues/5) to add ideas for these meetings.
 
