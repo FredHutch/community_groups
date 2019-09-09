@@ -7,6 +7,8 @@ This group is focused on technical aspects of software development and design, r
 - walking through a software stack for a given project
 - technically-focused lightning talks
 
+To recommend topics or activites, please use [this issue](https://github.com/FredHutch/community_groups/issues/3).
+
 ## Collaboration in GitHub
 
 - [**Git Hooks**](https://githooks.com): scripts that Git executes before or after an event like `commit` or `push`
