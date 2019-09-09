@@ -2,6 +2,11 @@
 
 The Software Development group meets on the second Monday of the month from noon to 1 pm in the Coop Lab (M1-B406). All Fred Hutch and SCCA employees are welcome to attend!
 
+This group is focused on technical aspects of software development and design, ranging from UI/UX (user experience testing) to interactions between different types of software and languages. Researchers, developers, and analysts (and anyone else interested!) working in all coding languages are welcome. The resources below are notes and useful links from our meetings. Types of activites at these meetings include:
+- group discussions about topics of interest, sometimes with invited speakers 
+- walking through a software stack for a given project
+- technically-focused lightning talks
+
 ## Collaboration in GitHub
 
 - [**Git Hooks**](https://githooks.com): scripts that Git executes before or after an event like `commit` or `push`
