@@ -18,11 +18,11 @@ If you have an idea for a new group, please look at our [guidelines](#want-to-cr
 
 Weekly meeting to discuss data visualization and create visualizations from the dataset released each week by [R for Data Science](https://github.com/rfordatascience/tidytuesday).
 
-## [Python Coding](python.md)
+## [Python Coding](python_coding.md)
 
 Weekly meeting to discuss and troubleshoot Python code.
 
-## [R Coding](R.md)
+## [R Coding](R_coding.md)
 
 Weekly meeting to discuss and troubleshoot R code.
 
