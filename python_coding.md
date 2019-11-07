@@ -26,4 +26,4 @@ The [fredpyapplication](https://github.com/FredHutch/fredpyapplication) reposito
 - [phydms](https://github.com/jbloomlab/phydms): from Jesse Bloom's lab; phylogenetic analyses informed by deep mutational scanning data
 - [sci-pkg](https://github.com/FredHutch/sci-pkg): from FH Scientific Computing; a collection of convenience and wrapper functions for [common science research tasks](https://pypi.org/project/sci/)
 - [proxmox-tools](https://github.com/FredHutch/proxmox-tools): from FH SciComp; prox command line interface for proxmox and other tools and customizations
-
+- [laminar](https://github.com/dgellerup/laminar): from Dane Gellerup FH Informatics Analyst Geraghty lab; High-level parallelization for easy multi-processing. Laminar seeks to take most of the effort out of parallel processing in Python by providing user-friendly parallelization functionality.
