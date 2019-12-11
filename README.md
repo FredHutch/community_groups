@@ -7,10 +7,9 @@ For more information on groups and other events hosted by the Coop, please see o
 Current groups include:
 
 - [Data Visualization](#data-visualization)
-- [Python Coding](#python-coding)
-- [R Coding](#r-coding)
+- [Python User Group](#python-coding)
+- [R User Group](#r-coding)
 - [Shiny Applications](#shiny-applications)
-- [Software Development](#software-development)
 
 If you have an idea for a new group, please look at our [guidelines](#want-to-create-a-new-community-group).
 
@@ -18,21 +17,17 @@ If you have an idea for a new group, please look at our [guidelines](#want-to-cr
 
 Weekly meeting to discuss data visualization and create visualizations from the dataset released each week by [R for Data Science](https://github.com/rfordatascience/tidytuesday).
 
-## [Python Coding](python_coding.md)
+## [Python User Group](python_coding.md)
 
 Weekly meeting to discuss and troubleshoot Python code.
 
-## [R Coding](R_coding.md)
+## [R User Group](R_coding.md)
 
 Weekly meeting to discuss and troubleshoot R code.
 
 ## [Shiny Applications](shiny.md)
 
 Monthly meeting to discuss and troubleshoot Shiny applications.
-
-## [Software Development](software_dev.md)
-
-Monthly meeting to discuss software design and development.
 
 ## Want to create a new community group?
 
