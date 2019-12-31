@@ -1,6 +1,7 @@
-# Python coding group
+# Python User Group
 
-The Python coding group meets on Fridays from noon to 1 pm in the Coop Lab (M1-B406). All Fred Hutch and SCCA employees are welcome to attend!
+The Python User Group meets weekly to discuss programming, data analysis, and troubleshooting in python as well as dedicate one meeting a month to general software development; topics will be announced ahead of time. Bring your lunch, code, questions, and thoughts! Python coders of all levels of expertise are welcome. Contact the Coop (coophelp at fredhutch.org) for more information. Additionally, check out the #python-user-comm channel on the [Coop Communities Slack](https://fhbig.slack.com/) and our other training and community resources at [Training, Community and Finding Help
+](https://sciwiki.fredhutch.org/scicomputing/reference_training/). Current meeting schedules and locations are available on the [Google calendar](https://calendar.google.com/calendar/r?cid=Z2QzMGRsaWZyaTRmdTdoMTA0Y3VxZGowZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Please see [this issue](https://github.com/FredHutch/community_groups/issues/5) to add ideas for these meetings.
 
