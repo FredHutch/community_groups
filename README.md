@@ -6,11 +6,10 @@ For more information on groups and other events hosted by the Coop, please see o
 
 Current groups include:
 
-- [Data Visualization](#data-visualization)
-- [Python Coding](#python-coding)
-- [R Coding](#r-coding)
-- [Shiny Applications](#shiny-applications)
-- [Software Development](#software-development)
+- [Data Visualization Group](#data-visualization)
+- [Python User Group](#python-coding)
+- [R User Group](#r-coding)
+- [Shiny User Group](#shiny-applications)
 
 If you have an idea for a new group, please look at our [guidelines](#want-to-create-a-new-community-group).
 
@@ -18,21 +17,24 @@ If you have an idea for a new group, please look at our [guidelines](#want-to-cr
 
 Weekly meeting to discuss data visualization and create visualizations from the dataset released each week by [R for Data Science](https://github.com/rfordatascience/tidytuesday).
 
-## [Python Coding](python_coding.md)
+## [Python User Group](python_coding.md)
 
-Weekly meeting to discuss and troubleshoot Python code.
+The Python User Group meets weekly to discuss programming, data analysis, and troubleshooting in python as well as dedicate one meeting a month to general software development; topics will be announced ahead of time. Bring your lunch, code, questions, and thoughts! Python coders of all levels of expertise are welcome. Contact the Coop (coophelp at fredhutch.org) for more information. Additionally, check out the #python-user-comm channel on the [Coop Communities Slack](https://fhbig.slack.com/) and our other training and community resources at [Training, Community and Finding Help
+](https://sciwiki.fredhutch.org/scicomputing/reference_training/). Current meeting schedules and locations are available on the [Google calendar](https://calendar.google.com/calendar/r?cid=Z2QzMGRsaWZyaTRmdTdoMTA0Y3VxZGowZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-## [R Coding](R_coding.md)
+## [R User Group](R_coding.md)
 
-Weekly meeting to discuss and troubleshoot R code.
+The R User Group meets weekly to discuss programming, data analysis, and troubleshooting in R. Bring your lunch, code, questions, and thoughts! R coders of all levels of expertise are welcome. Contact the Coop (coophelp at fredhutch.org) for more information. Additionally, check out the #r-user-comm channel on the [Coop Communities Slack](https://fhbig.slack.com/) and our other training and community resources at [Training, Community and Finding Help
+](https://sciwiki.fredhutch.org/scicomputing/reference_training/). Note: If you do not have a laptop available to you we still want you to come!! You can email code privately ahead of each event to Amy Paguirigan (apaguiri at fredhutch.org). Current meeting schedules and locations are available on the [Google calendar](https://calendar.google.com/calendar/r?cid=Z2QzMGRsaWZyaTRmdTdoMTA0Y3VxZGowZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-## [Shiny Applications](shiny.md)
+## [Shiny User Group](shiny.md)
 
 Monthly meeting to discuss and troubleshoot Shiny applications.
 
-## [Software Development](software_dev.md)
+## Retired Community Groups: 
+All of our groups were created because of the needs voiced by our community. Sometimes those needs change, and we're happy to respond by refocusing our efforts. The following groups have been retired, but are noted here for reference purposes:
 
-Monthly meeting to discuss software design and development.
+- [~~Software Development~~](software_dev.md) Monthly meeting to discuss software design and development. *Discussions about this topic are now included periodically in the Python User Group*
 
 ## Want to create a new community group?
 
