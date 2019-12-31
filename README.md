@@ -10,6 +10,7 @@ Current groups include:
 - [Python User Group](#python-coding)
 - [R User Group](#r-coding)
 - [Shiny User Group](#shiny-applications)
+- [Retired Community Groups](#retired-community-groups)
 
 If you have an idea for a new group, please look at our [guidelines](#want-to-create-a-new-community-group).
 
