@@ -1,6 +1,6 @@
-# Software Development group
+# Software Development Group (retired)
 
-The Software Development group meets on the second Monday of the month from noon to 1 pm in the Coop Lab (M1-B406). All Fred Hutch and SCCA employees are welcome to attend!
+*The Software Development Group has been retired; discussions about this topic are now included periodically in the Python User Group*
 
 This group is focused on technical aspects of software development and design, ranging from UI/UX (user experience testing) to interactions between different types of software and languages. Researchers, developers, and analysts (and anyone else interested!) working in all coding languages are welcome. The resources below are notes and useful links from our meetings. Types of activites at these meetings include:
 - group discussions about topics of interest, sometimes with invited speakers 
