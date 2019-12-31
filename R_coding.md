@@ -1,6 +1,7 @@
-# R coding group
+# R User Group
 
-The R coding group meets on Thursdays from noon to 1 pm in the Coop Lab (M1-B406) in the Arnold building. All Fred Hutch and SCCA employees are welcome to attend! Also please join our slack channel at `#r-user-comm` on the `fhbig.slack.com` workspace to communicate with other R users within the organization.
+The R User Group meets weekly to discuss programming, data analysis, and troubleshooting in R. Bring your lunch, code, questions, and thoughts! R coders of all levels of expertise are welcome. Contact the Coop (coophelp at fredhutch.org) for more information. Additionally, check out the #r-user-comm channel on the [Coop Communities Slack](https://fhbig.slack.com/) and our other training and community resources at [Training, Community and Finding Help
+](https://sciwiki.fredhutch.org/scicomputing/reference_training/). Note: If you do not have a laptop available to you we still want you to come!! You can email code privately ahead of each event to Amy Paguirigan (apaguiri at fredhutch.org). Current meeting schedules and locations are available on the [Google calendar](https://calendar.google.com/calendar/r?cid=Z2QzMGRsaWZyaTRmdTdoMTA0Y3VxZGowZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Please see [this issue](https://github.com/FredHutch/community_groups/issues/4) to add topics for discussion at these meetings!
 
